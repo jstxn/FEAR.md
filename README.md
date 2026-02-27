@@ -10,7 +10,7 @@ SOUL.md tells an agent who it is. FEAR.md tells it what happens when it gets slo
 
 ## What it does
 
-FEAR.md makes agents slower, more careful, and more correct. It enforces:
+FEAR.md makes agents more careful and more correct. It enforces:
 
 - Reading files before editing them
 - Verifying assumptions instead of guessing
@@ -22,6 +22,12 @@ FEAR.md makes agents slower, more careful, and more correct. It enforces:
 ## Usage
 
 Drop `FEAR.md` into your project root. Point your agent to it.
+
+If your agent uses `AGENTS.md`, add this pointer line:
+
+```md
+@~/FEAR.md
+```
 
 For Claude Code, add to your `CLAUDE.md`:
 
@@ -37,21 +43,6 @@ For other agents (Cursor, Copilot, Windsurf, etc.), add it to whatever config fi
 - You're spending more time fixing agent output than writing code yourself
 - Your agent keeps hallucinating function names, imports, or API shapes
 - You want the agent to run your linter and tests without being told every time
-
-## When not to use it
-
-- Quick throwaway scripts where correctness doesn't matter
-- You want fast, loose iteration over careful output
-
-## Structure
-
-The document has five sections:
-
-1. **Rules** -- non-negotiable behaviors (never fabricate, never skip tests, etc.)
-2. **Before You Touch Anything** -- self-check questions before writing code
-3. **Anti-Patterns** -- concrete examples of common agent failures with BAD/REALITY/RULE format
-4. **Pre-Flight Checklist** -- step-by-step verification (build, typecheck, lint, format, test, diff review)
-5. **Severity Awareness** -- calibrates caution level based on task risk
 
 ## Customization
 
