@@ -4,7 +4,7 @@
 
 # FEAR.md
 
-A quality enforcement document for AI coding agents.
+Research-informed behavioral guardrails for AI coding agents at inference time.
 
 SOUL.md tells an agent who it is. FEAR.md tells it what happens when it gets sloppy.
 
