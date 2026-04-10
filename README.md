@@ -57,3 +57,11 @@ Fork it. Edit it. The anti-patterns section is the easiest place to add project-
 ## License
 
 MIT. Do whatever you want with it.
+
+## Research / References
+
+- Anthropic. [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function). Apr 2, 2026.
+  Useful background for the idea that emotion-like concepts can functionally influence LLM behavior.
+
+- Patel, Lee, Liang, Thomas. [The Role of Emotional Stimuli and Intensity in Shaping Large Language Model Behavior](https://arxiv.org/pdf/2604.07369). arXiv:2604.07369, Apr 7, 2026.
+  Relevant for the broader claim that emotional prompting can measurably affect model accuracy, toxicity, and sycophancy.
