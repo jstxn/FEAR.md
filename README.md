@@ -8,6 +8,12 @@ A quality enforcement document for AI coding agents.
 
 SOUL.md tells an agent who it is. FEAR.md tells it what happens when it gets sloppy.
 
+## Why this framing
+
+FEAR.md is intentionally written as a pressure cue, not just a checklist. The underlying idea is that models often respond differently when a task is framed in terms of failure, caution, and consequences. Recent interpretability research has also suggested that emotion-like concepts in language models can influence behavior in functional ways, even without implying literal feelings. FEAR.md leans on that idea pragmatically: use the framing to make the agent slower to guess, quicker to verify, and more willing to admit uncertainty.
+
+One useful reference point for that intuition is Anthropic's research note, [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function).
+
 ## What it does
 
 FEAR.md makes agents more careful and more correct. It enforces:
