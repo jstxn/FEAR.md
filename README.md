@@ -60,6 +60,9 @@ MIT. Do whatever you want with it.
 
 ## Research / References
 
+- Local FEAR report: [fear_regulated_pressure_report.pdf](./resources/fear_regulated_pressure_report.pdf)
+  Research summary and framing document tracked in this repository.
+
 - Anthropic. [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function). Apr 2, 2026.
   Useful background for the idea that emotion-like concepts can functionally influence LLM behavior.
 
