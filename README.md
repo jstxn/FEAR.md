@@ -58,10 +58,14 @@ Fork it. Edit it. The anti-patterns section is the easiest place to add project-
 
 MIT. Do whatever you want with it.
 
-## Research / References
+## Foundational Research
 
-- Local FEAR report: [fear_regulated_pressure_report.pdf](./resources/fear_regulated_pressure_report.pdf)
-  Research summary and framing document tracked in this repository.
+This project is also grounded in my own research work on regulated pressure, emotional stimuli, and coding-agent behavior.
+
+- FEAR research report: [fear_regulated_pressure_report.pdf](./resources/fear_regulated_pressure_report.pdf)
+  This document directly informs the thought process, framing, and theory behind why this project exists and how FEAR is being shaped as a regulated-pressure protocol rather than a blunt fear prompt.
+
+## Research / References
 
 - Anthropic. [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function). Apr 2, 2026.
   Useful background for the idea that emotion-like concepts can functionally influence LLM behavior.
