@@ -85,8 +85,16 @@ Eval surfaces:
 - `fear-evals/reports/`
 
 ## Matched Controls
-
 `FEAR.md` and `VERIFY.md` are meant to be procedurally matched.
+
+## Foundational Research
+
+This project is also grounded in my own research work on regulated pressure, emotional stimuli, and coding-agent behavior.
+
+- FEAR research report: [fear_regulated_pressure_report.pdf](./resources/fear_regulated_pressure_report.pdf)
+  This document directly informs the thought process, framing, and theory behind why this project exists and how FEAR is being shaped as a regulated-pressure protocol rather than a blunt fear prompt.
+
+## Research / References
 
 They should share:
 
