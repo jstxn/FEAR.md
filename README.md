@@ -2,14 +2,14 @@
   <img width="400" height="200" alt="Gemini_Generated_Image_hzl8uqhzl8uqhzl8" src="https://github.com/user-attachments/assets/dffb6a8a-146d-447c-ac72-c017a898028e" />
 </p>
 
+> [!NOTE]
+> FEAR is currently evolving into a full agent harness at [rein](https://github.com/jstxn/rein).
+
 # FEAR.md
 
 Research-informed behavioral guardrails for AI coding agents at inference time.
 
 SOUL.md tells an agent who it is. FEAR.md tells it what happens when it gets sloppy.
-
-> [!NOTE]
-> FEAR is currently evolving into a fuller harness in [rein](https://github.com/jstxn/rein).
 
 ## Why this framing
 
